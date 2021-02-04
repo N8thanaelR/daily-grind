@@ -34,7 +34,7 @@ function coffeeTemplate(){
 </p>
 
     <p><span class="${coffee.color}">${coffee.name}: </span>Small description of days coffee goes here</p>
-    <p><span class="${coffee.color}">Enjoy a ${coffee.name}</span>with our signature Vanilla!</p>
+    <p><span class="${coffee.color}">Enjoy a ${coffee.name}</span>!</p>
     
     `;
 
